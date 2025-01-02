@@ -1,0 +1,9 @@
+[submodule "workspace/src/px4_msgs"]
+	path = workspace/src/px4_msgs
+	url = git@gitlab.com:fixed-wing-autonomy/px4_msgs.git
+[submodule "workspace/src/px4_ros_com"]
+	path = workspace/src/px4_ros_com
+	url = git@gitlab.com:fixed-wing-autonomy/px4_ros_com.git
+[submodule "robots"]
+	path = robots
+	url = https://github.com/aivian/robots.git
